@@ -1,0 +1,28 @@
+h1 {
+    font-family: Lobster;
+}
+
+.ratings {
+    color:red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+h1 {
+    color: black;
+    font-size: 75px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.btn-primary {
+    margin-left: 10px;
+    background: black;
+    color: white;
+}
+
+#add-actor {
+    margin-left: 10px;
+    background: black;
+    color: white;
+}
+
